@@ -4,7 +4,7 @@ Repositorio correspondiente a las actividades de implementación y uso de módul
 
 ## Autor
 
-TU NOMBRE
+jonathan valcarcel
 
 ---
 
