@@ -1,0 +1,15 @@
+{
+  "name": "system-analytics",
+  "version": "1.0.0",
+  "description": "Sistema de análisis y monitoreo con Node.js",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "info": "node src/app.js info",
+    "monitor": "node src/app.js monitor"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
